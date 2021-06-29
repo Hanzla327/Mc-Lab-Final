@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975803589187",
+    "project_id": "mc-hanzla-191193",
+    "storage_bucket": "mc-hanzla-191193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975803589187:android:143b71f68ab4729393aaf6",
+        "android_client_info": {
+          "package_name": "com.hanzla.mc_hanzla_191193"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975803589187-6jhkg559tce43mo1eclnoq24etfjtp7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8JNi88Z7sE9fjHA4vY63BAR4LbrlHevE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975803589187-6jhkg559tce43mo1eclnoq24etfjtp7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
